@@ -1,0 +1,10 @@
+{
+  "version": "1.0.27",
+  "downloadUrl": "https://github.com/mehmetakkuzu4-cyber/noteline-releases/releases/download/v1.0.27/NoteLineEkip-1.0.27.zip",
+  "sha256": "6b055c678c44caf98efd4c2438d8589f3800b68cd4b6b39811e44ca234ddd916",
+  "size": 77229336,
+  "installerUrl": "https://github.com/mehmetakkuzu4-cyber/noteline-releases/releases/download/v1.0.27/NoteLine-Setup-1.0.27.exe",
+  "installerSha256": "7db7164eba163c48eee659d0e737b780193bfe96429baefc2a5a059d74f55867",
+  "installerSize": 55252092,
+  "releaseNotes": "Güncelleme kanalı OptiLine düzenine geçirildi. Paket artık doğrudan GitHub Releases üzerinden indirilir; curl ve VPS dosya aktarımı kullanılmaz."
+}
