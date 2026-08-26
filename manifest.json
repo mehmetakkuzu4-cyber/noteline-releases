@@ -1,10 +1,10 @@
 {
-  "version": "1.0.27",
-  "downloadUrl": "https://github.com/mehmetakkuzu4-cyber/noteline-releases/releases/download/v1.0.27/NoteLineEkip-1.0.27.zip",
-  "sha256": "6b055c678c44caf98efd4c2438d8589f3800b68cd4b6b39811e44ca234ddd916",
-  "size": 77229336,
-  "installerUrl": "https://github.com/mehmetakkuzu4-cyber/noteline-releases/releases/download/v1.0.27/NoteLine-Setup-1.0.27.exe",
-  "installerSha256": "7db7164eba163c48eee659d0e737b780193bfe96429baefc2a5a059d74f55867",
-  "installerSize": 55252092,
-  "releaseNotes": "Güncelleme kanalı OptiLine düzenine geçirildi. Paket artık doğrudan GitHub Releases üzerinden indirilir; curl ve VPS dosya aktarımı kullanılmaz."
+  "version": "1.0.28",
+  "downloadUrl": "https://github.com/mehmetakkuzu4-cyber/noteline-releases/releases/download/v1.0.28/NoteLineEkip-1.0.28.zip",
+  "sha256": "dd88544110c67f970fdd299b911f4be4856878fdf6ef85151d6eb948861b8bfc",
+  "size": 77229344,
+  "installerUrl": "https://github.com/mehmetakkuzu4-cyber/noteline-releases/releases/download/v1.0.28/NoteLine-Setup-1.0.28.exe",
+  "installerSha256": "fbe6ac8b057263c76371e6b84930ce143157a69f7cadd1777835a94c22f49a01",
+  "installerSize": 55242778,
+  "releaseNotes": "Güncelleme indirme sistemi GitHub Releases altyapısına tamamen geçirildi. Windows curl yolu kaldırıldı; indirme doğrudan uygulamanın güvenli HTTP istemcisiyle, zaman aşımı ve otomatik tekrar deneme desteğiyle yapılır."
 }
