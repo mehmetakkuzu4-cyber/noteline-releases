@@ -1,10 +1,10 @@
 {
   "version": "1.0.32",
   "downloadUrl": "https://github.com/mehmetakkuzu4-cyber/noteline-releases/releases/download/v1.0.32/NoteLineEkip-1.0.32.zip",
-  "sha256": "79396b52226c63097115ae6e997ab3d5924339e2895e6e30b214f0dc7dad80fd",
-  "size": 77346652,
+  "sha256": "1c05af4ac537bff3ddeba56711d49aeb0d23c7ced9574f3d7f38b7f84ef17e09",
+  "size": 77346597,
   "installerUrl": "https://github.com/mehmetakkuzu4-cyber/noteline-releases/releases/download/v1.0.32/NoteLine-Setup-1.0.32.exe",
-  "installerSha256": "eb3f12b788736b9ea47cde30f75af9d6072bde83528565850a9cbed42f2c3d0f",
-  "installerSize": 55251527,
-  "releaseNotes": "Hesaba özel temiz başlangıç; örnek proje ve notların kaldırılması; farklı kullanıcı projelerinin ayrılması; ortak görev bağlantı durumunun düzeltilmesi; tüm Windows pencereleri ve kısayollarında aynı NoteLine logosu; eski NoteLine.exe kalıntısının temizlenmesi."
+  "installerSha256": "baf433ef0a736e6085b8ee1115c9d78d290ed20897668ff4fba81c2bc6ef6a5b",
+  "installerSize": 55276437,
+  "releaseNotes": "Hesaba özel temiz başlangıç; örnek proje ve notların kaldırılması; farklı kullanıcı projelerinin ayrılması; ortak görev bağlantı durumunun düzeltilmesi; güvenilir GitHub latest güncelleme kanalı ve raw yedeği; tüm Windows pencereleri ve kısayollarında aynı NoteLine logosu; eski NoteLine.exe kalıntısının temizlenmesi."
 }
