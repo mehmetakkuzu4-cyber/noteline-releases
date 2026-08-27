@@ -1,10 +1,10 @@
 {
-  "version": "1.0.30",
-  "downloadUrl": "https://github.com/mehmetakkuzu4-cyber/noteline-releases/releases/download/v1.0.30/NoteLineEkip-1.0.30.zip",
-  "sha256": "8d8de7e57dafde28dac945f842fae8d0931707efec432ecaec51c6c009b2781f",
-  "size": 77246708,
-  "installerUrl": "https://github.com/mehmetakkuzu4-cyber/noteline-releases/releases/download/v1.0.30/NoteLine-Setup-1.0.30.exe",
-  "installerSha256": "fd088c0cce76fff945e627f5fb10d59909ab59fd20a6234d50a08e72cfcaa06a",
-  "installerSize": 55276933,
-  "releaseNotes": "Görev çalışma alanında bölümler sol menüye ayrıldı. Metin, imalat, kontrol, e-posta, dosya ve bağlantı içerikleri ayrı görünümlerde açılır; tüm veriler aynı görev dosyasında korunur."
+  "version": "1.0.31",
+  "downloadUrl": "https://github.com/mehmetakkuzu4-cyber/noteline-releases/releases/download/v1.0.31/NoteLineEkip-1.0.31.zip",
+  "sha256": "0ad7ec6f776d51b41661e0afc76d5ea180d3d13c684cf0fe54a1695040ea8b22",
+  "size": 77249778,
+  "installerUrl": "https://github.com/mehmetakkuzu4-cyber/noteline-releases/releases/download/v1.0.31/NoteLine-Setup-1.0.31.exe",
+  "installerSha256": "ceb3525f957250b17c576f4b4964053a069c5e838c140dbbef24595bcc21cd1b",
+  "installerSize": 55275917,
+  "releaseNotes": "Görev takvimi üst menüye taşındı ve ayrı aylık takip sayfası eklendi. Ayrı görev penceresinin bazı bilgisayarlarda yükleme ekranında kalması giderildi; görev açılışı ve bağlantı dayanıklılığı iyileştirildi."
 }
