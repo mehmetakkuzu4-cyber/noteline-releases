@@ -1,10 +1,10 @@
 {
-  "version": "1.0.32",
-  "downloadUrl": "https://github.com/mehmetakkuzu4-cyber/noteline-releases/releases/download/v1.0.32/NoteLineEkip-1.0.32.zip",
-  "sha256": "1c05af4ac537bff3ddeba56711d49aeb0d23c7ced9574f3d7f38b7f84ef17e09",
-  "size": 77346597,
-  "installerUrl": "https://github.com/mehmetakkuzu4-cyber/noteline-releases/releases/download/v1.0.32/NoteLine-Setup-1.0.32.exe",
-  "installerSha256": "baf433ef0a736e6085b8ee1115c9d78d290ed20897668ff4fba81c2bc6ef6a5b",
-  "installerSize": 55276437,
-  "releaseNotes": "Hesaba özel temiz başlangıç; örnek proje ve notların kaldırılması; farklı kullanıcı projelerinin ayrılması; ortak görev bağlantı durumunun düzeltilmesi; güvenilir GitHub latest güncelleme kanalı ve raw yedeği; tüm Windows pencereleri ve kısayollarında aynı NoteLine logosu; eski NoteLine.exe kalıntısının temizlenmesi."
+  "version": "1.0.33",
+  "downloadUrl": "https://github.com/mehmetakkuzu4-cyber/noteline-releases/releases/download/v1.0.33/NoteLineEkip-1.0.33.zip",
+  "sha256": "294f1dc2e49c285c87d9cda974644726a9423f18b93c20bd3e5f88b8f0e62216",
+  "size": 77348530,
+  "installerUrl": "https://github.com/mehmetakkuzu4-cyber/noteline-releases/releases/download/v1.0.33/NoteLine-Setup-1.0.33.exe",
+  "installerSha256": "c66e4d4de3399fc15d7213ae7ec1117f257ab308fdbdbd78b03c697fb74224a7",
+  "installerSize": 55249388,
+  "releaseNotes": "Geliştirici sürümüyle birebir arayüz paketi; kurulum öncesinde eski web arayüzünün tamamen temizlenmesi; WebView önbelleğinin sürüm bazında sıfırlanması; eski NoteLine çalıştırıcısının kaldırılması; ortak görev bağlantı ve ayrı görev penceresi düzeltmeleri."
 }
