@@ -1,10 +1,10 @@
 {
-  "version": "1.0.36",
-  "downloadUrl": "https://github.com/mehmetakkuzu4-cyber/noteline-releases/releases/download/v1.0.36/NoteLineEkip-1.0.36.zip",
-  "sha256": "45a2ceae8c3d905ef61c5cb57b642a19fc4ed38f2bd6a77b8fbcdff5ec6ab872",
-  "size": 77365495,
-  "installerUrl": "https://github.com/mehmetakkuzu4-cyber/noteline-releases/releases/download/v1.0.36/NoteLine-Setup-1.0.36.exe",
-  "installerSha256": "78828dd6f902a74bd3e5e8adbfa35b28659256880a0c8b1379615b52f04836d7",
-  "installerSize": 55290511,
-  "releaseNotes": "VPN gerektirmeyen .NET ağ köprüsü, hızlı pano ve görev senkronizasyonu, güvenilir mesaj/dosya aktarımı ve dosya önizleme iyileştirmeleri."
+  "version": "1.0.37",
+  "downloadUrl": "https://github.com/mehmetakkuzu4-cyber/noteline-releases/releases/download/v1.0.37/NoteLineEkip-1.0.37.zip",
+  "sha256": "1efc0d9d2a6b1250662448bee6800895f5c8dbb2132256297d2d466d09b99af2",
+  "size": 77367392,
+  "installerUrl": "https://github.com/mehmetakkuzu4-cyber/noteline-releases/releases/download/v1.0.37/NoteLine-Setup-1.0.37.exe",
+  "installerSha256": "d8628001b03ce8d3b10cdc77435a9cc5e425928cc854ad935aa2c25ca5ca5fd3",
+  "installerSize": 55275849,
+  "releaseNotes": "VPN gerektirmeyen doğrudan HTTPS bağlantısı; sorunlu ağ yolunda hızlı otomatik adres geçişi ve güvenli yeniden deneme; sohbet, görev ve dosya aktarımı kararlılık iyileştirmeleri."
 }
