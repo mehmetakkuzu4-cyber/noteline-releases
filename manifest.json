@@ -1,10 +1,10 @@
 {
-  "version": "1.0.34",
-  "downloadUrl": "https://github.com/mehmetakkuzu4-cyber/noteline-releases/releases/download/v1.0.34/NoteLineEkip-1.0.34.zip",
-  "sha256": "378b90c927a84d7b26f474f7865b84cae338431d9df1ae5ec7801703b689f030",
-  "size": 77348498,
-  "installerUrl": "https://github.com/mehmetakkuzu4-cyber/noteline-releases/releases/download/v1.0.34/NoteLine-Setup-1.0.34.exe",
-  "installerSha256": "c328d6b964531fcd83fdd26da2d7fd6d1fce50d424334f12d02c6f20728bd007",
-  "installerSize": 55271879,
-  "releaseNotes": "VPN bağımsız güvenilir senkronizasyon; bağlantı kesintilerinde en geç beş saniye içinde otomatik yeniden gönderim ve yinelenmeyen mesaj teslimi."
+  "version": "1.0.35",
+  "downloadUrl": "https://github.com/mehmetakkuzu4-cyber/noteline-releases/releases/download/v1.0.35/NoteLineEkip-1.0.35.zip",
+  "sha256": "1e182d04f4236a488588a9d35c69f8ab95ce11721e357f64b7aba0d08387753b",
+  "size": 77357359,
+  "installerUrl": "https://github.com/mehmetakkuzu4-cyber/noteline-releases/releases/download/v1.0.35/NoteLine-Setup-1.0.35.exe",
+  "installerSha256": "7847433cd475a5f1e7f941449d9359d8b5eaa7f1e63bdee178176bf5d913f8a3",
+  "installerSize": 55286445,
+  "releaseNotes": "Mesaj ve görev senkronizasyonu hızlandırıldı. WebView pencere kapanışındaki beklenmeyen uygulama kapanması giderildi."
 }
