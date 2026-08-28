@@ -1,10 +1,10 @@
 {
-  "version": "1.0.37",
-  "downloadUrl": "https://github.com/mehmetakkuzu4-cyber/noteline-releases/releases/download/v1.0.37/NoteLineEkip-1.0.37.zip",
-  "sha256": "1efc0d9d2a6b1250662448bee6800895f5c8dbb2132256297d2d466d09b99af2",
-  "size": 77367392,
-  "installerUrl": "https://github.com/mehmetakkuzu4-cyber/noteline-releases/releases/download/v1.0.37/NoteLine-Setup-1.0.37.exe",
-  "installerSha256": "d8628001b03ce8d3b10cdc77435a9cc5e425928cc854ad935aa2c25ca5ca5fd3",
-  "installerSize": 55275849,
-  "releaseNotes": "VPN gerektirmeyen doğrudan HTTPS bağlantısı; sorunlu ağ yolunda hızlı otomatik adres geçişi ve güvenli yeniden deneme; sohbet, görev ve dosya aktarımı kararlılık iyileştirmeleri."
+  "version": "1.0.38",
+  "downloadUrl": "https://github.com/mehmetakkuzu4-cyber/noteline-releases/releases/download/v1.0.38/NoteLineEkip-1.0.38.zip",
+  "sha256": "40db86d1828bf0000c19fcb52893b4d10591a42edd95484c7e4cacb65797e415",
+  "size": 77367304,
+  "installerUrl": "https://github.com/mehmetakkuzu4-cyber/noteline-releases/releases/download/v1.0.38/NoteLine-Setup-1.0.38.exe",
+  "installerSha256": "333f2c39dd9ac5c632ddc1f8134ec0bc969475da1982616a745baba6b371238d",
+  "installerSize": 55313379,
+  "releaseNotes": "VPN kapalı ağlarda hızlı ve kararlı bağlantı: iki sunucu adresini eşzamanlı deneme, gecikmeden otomatik geçiş, 250 ms senkronizasyon kontrolü ve güvenli yerel işlem kuyruğu."
 }
