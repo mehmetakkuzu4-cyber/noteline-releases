@@ -1,10 +1,10 @@
 {
-    "version":  "1.0.40",
-    "downloadUrl":  "https://github.com/mehmetakkuzu4-cyber/noteline-releases/releases/download/v1.0.40/NoteLineEkip-1.0.40.zip",
-    "sha256":  "dd532a804ac7a1095caa1b1971f19f37712a8e72151ee0b8f7ca2b14da111fdf",
-    "size":  74927035,
-    "installerUrl":  "https://github.com/mehmetakkuzu4-cyber/noteline-releases/releases/download/v1.0.40/NoteLine-Setup-1.0.40.exe",
-    "installerSha256":  "f51ec5255941b99616eb96a6f57d4c4ea9a7b3203e867e10caf9664388a80536",
-    "installerSize":  55288105,
-    "releaseNotes":  "Windows bildirimleri program kapalıyken de çalışır; görev mesajları ve tüm içerik değişiklikleri kartlarda sayılı bildirim olarak görünür; bildirim tercihleri menüden yönetilir."
+  "version": "1.0.41",
+  "downloadUrl": "https://github.com/mehmetakkuzu4-cyber/noteline-releases/releases/download/v1.0.41/NoteLineEkip-1.0.41.zip",
+  "sha256": "f22d429c161800c620431fe1e163a0d310addc94bfc8bfa8d0d9b7b9d4d6e916",
+  "size": 77367077,
+  "installerUrl": "https://github.com/mehmetakkuzu4-cyber/noteline-releases/releases/download/v1.0.41/NoteLine-Setup-1.0.41.exe",
+  "installerSha256": "35506ad3c728093d925d7e5ab4284c5d69d272056cf9a9496ada2b8cc15cb8a1",
+  "installerSize": 55301753,
+  "releaseNotes": "Mesajların eski ve yeni istemciler arasında kaybolmaması, VPNsiz ağ bağlantısı için daha dayanıklı yeniden deneme ve görevlinin görev sahibi adına kendine görev oluşturabilmesi eklendi."
 }
