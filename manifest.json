@@ -1,10 +1,10 @@
 {
-  "version": "1.0.42",
-  "downloadUrl": "https://github.com/mehmetakkuzu4-cyber/noteline-releases/releases/download/v1.0.42/NoteLineEkip-1.0.42.zip",
-  "sha256": "bc6b203a6d4623112d9949774bf2409fb123a5818eb55b5ca6f283ce96eda935",
-  "size": 77372932,
-  "installerUrl": "https://github.com/mehmetakkuzu4-cyber/noteline-releases/releases/download/v1.0.42/NoteLine-Setup-1.0.42.exe",
-  "installerSha256": "325b2b2efd7a13772b7e0ca4e719f2f0e2bdf02e35493e399d76ace5113f97d6",
-  "installerSize": 55285528,
-  "releaseNotes": "Gece teması baştan düzenlendi; pano, görev kartları, görev çalışma alanı, editör ve sohbet görünümü tutarlı ve okunaklı hale getirildi. Windows görev çubuğu bildirim sayacı tek rozet olarak düzeltildi."
+  "version": "1.0.43",
+  "downloadUrl": "https://github.com/mehmetakkuzu4-cyber/noteline-releases/releases/download/v1.0.43/NoteLineEkip-1.0.43.zip",
+  "sha256": "ac472a7e0380e04f4fab13d90001c77ff9c87f54cd145ca74a3a0eea62c59ca6",
+  "size": 77380589,
+  "installerUrl": "https://github.com/mehmetakkuzu4-cyber/noteline-releases/releases/download/v1.0.43/NoteLine-Setup-1.0.43.exe",
+  "installerSha256": "43781c4a2f30654319ef45fbefe18b48d91ce861638312802df03b8d81630c32",
+  "installerSize": 55312457,
+  "releaseNotes": "Ekip hatırlatıcısı daha geniş, yatay kaydırmasız ve zarif görev föyü görünümüne yenilendi. Tüm açık görevlerde proje, görev, atayan, görevli, durum ve tarih tek bakışta gösteriliyor. ÇALIŞTIR.bat eski tepsi işlemini kapatıp her zaman güncel arayüzü açıyor."
 }
