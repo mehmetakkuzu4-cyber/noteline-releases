@@ -1,10 +1,10 @@
 {
-  "version": "1.0.44",
-  "downloadUrl": "https://github.com/mehmetakkuzu4-cyber/noteline-releases/releases/download/v1.0.44/NoteLineEkip-1.0.44.zip",
-  "sha256": "2c9bc4f89ecac4378372f7fb1a4816fd1f48379f6bc08a6a15806147946532b1",
-  "size": 77403801,
-  "installerUrl": "https://github.com/mehmetakkuzu4-cyber/noteline-releases/releases/download/v1.0.44/NoteLine-Setup-1.0.44.exe",
-  "installerSha256": "4f47666e3579b0b65964bf97d494009f0f7855e095e18c991cc682290fea0989",
-  "installerSize": 55298402,
-  "releaseNotes": "İmalat tablosuna hücre içi metin kaydırma, Alt+Enter ile aynı hücrede yeni satır, uzun içeriğe göre otomatik satır büyütme, fareyle yatay kaydırma ve seçim sırasında kenarda otomatik ilerleme eklendi. Görev bölümleri sürükle-bırakla sıralanabilir ve kullanıcı için kalıcı hale getirildi."
+  "version": "1.0.45",
+  "downloadUrl": "https://github.com/mehmetakkuzu4-cyber/noteline-releases/releases/download/v1.0.45/NoteLineEkip-1.0.45.zip",
+  "sha256": "e77c65dca7837182ab73e2e105e41ac143988017610c14de3da9190f4bf5b6d1",
+  "size": 77409115,
+  "installerUrl": "https://github.com/mehmetakkuzu4-cyber/noteline-releases/releases/download/v1.0.45/NoteLine-Setup-1.0.45.exe",
+  "installerSha256": "f51f0981a671b0d504429e6044fe9ae0d0f527129dc4c8679cd48c1ab326be3b",
+  "installerSize": 55301828,
+  "releaseNotes": "İmalat tablosuna Excel benzeri sıralama ve değer filtresi eklendi. Filtre sonrası kaydırma ve tablo yüksekliği düzeltildi; araç çubuğu, başlıklar, açılır menüler ve alt durum alanı hücrelerin üzerine binmeden sabit ve düzenli çalışıyor. Çoklu hücre yapıştırma ile seçili sayıların adet, toplam ve ortalama özeti kullanılabilir."
 }
