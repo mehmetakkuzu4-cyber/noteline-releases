@@ -1,10 +1,10 @@
 {
   "version": "1.0.43",
   "downloadUrl": "https://github.com/mehmetakkuzu4-cyber/noteline-releases/releases/download/v1.0.43/NoteLineEkip-1.0.43.zip",
-  "sha256": "ac472a7e0380e04f4fab13d90001c77ff9c87f54cd145ca74a3a0eea62c59ca6",
-  "size": 77380589,
+  "sha256": "a5770907e8fd0b3e53b18f341a1d2cb97b58f6e3175cce4b6f1da5d19f04bd47",
+  "size": 77403817,
   "installerUrl": "https://github.com/mehmetakkuzu4-cyber/noteline-releases/releases/download/v1.0.43/NoteLine-Setup-1.0.43.exe",
-  "installerSha256": "43781c4a2f30654319ef45fbefe18b48d91ce861638312802df03b8d81630c32",
-  "installerSize": 55312457,
-  "releaseNotes": "Ekip hatırlatıcısı daha geniş, yatay kaydırmasız ve zarif görev föyü görünümüne yenilendi. Tüm açık görevlerde proje, görev, atayan, görevli, durum ve tarih tek bakışta gösteriliyor. ÇALIŞTIR.bat eski tepsi işlemini kapatıp her zaman güncel arayüzü açıyor."
+  "installerSha256": "1a4f69cd2c553a18d3161cec1e96e206fc5cfc387cadbaa200240d325f4e8c22",
+  "installerSize": 55302980,
+  "releaseNotes": "İmalat tablosuna hücre içi metin kaydırma, Alt+Enter ile aynı hücrede yeni satır, uzun içeriğe göre otomatik satır büyütme, fareyle yatay kaydırma ve seçim sırasında kenarda otomatik ilerleme eklendi. Görev bölümleri sürükle-bırakla sıralanabilir ve kullanıcı için kalıcı hale getirildi."
 }
